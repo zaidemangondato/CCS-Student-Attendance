@@ -1,0 +1,17 @@
+c:\users\user\documents\visual studio 2010\Projects\CCS-Student-Attendance\CCS-Student-Attendance\bin\Debug\CCS-Student-Attendance.exe
+c:\users\user\documents\visual studio 2010\Projects\CCS-Student-Attendance\CCS-Student-Attendance\bin\Debug\CCS-Student-Attendance.pdb
+c:\users\user\documents\visual studio 2010\Projects\CCS-Student-Attendance\CCS-Student-Attendance\bin\Debug\CCS-Student-Attendance.xml
+c:\users\user\documents\visual studio 2010\Projects\CCS-Student-Attendance\CCS-Student-Attendance\obj\x86\Debug\CCS_Student_Attendance.Form1.resources
+c:\users\user\documents\visual studio 2010\Projects\CCS-Student-Attendance\CCS-Student-Attendance\obj\x86\Debug\CCS_Student_Attendance.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\CCS-Student-Attendance\CCS-Student-Attendance\obj\x86\Debug\CCS-Student-Attendance.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\CCS-Student-Attendance\CCS-Student-Attendance\obj\x86\Debug\CCS-Student-Attendance.exe
+c:\users\user\documents\visual studio 2010\Projects\CCS-Student-Attendance\CCS-Student-Attendance\obj\x86\Debug\CCS-Student-Attendance.xml
+c:\users\user\documents\visual studio 2010\Projects\CCS-Student-Attendance\CCS-Student-Attendance\obj\x86\Debug\CCS-Student-Attendance.pdb
+c:\users\user\documents\visual studio 2010\Projects\CCS-Student-Attendance\CCS-Student-Attendance\obj\x86\Debug\CCS_Student_Attendance.StudentList.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\CCS-Student-Attendance\CCS-Student-Attendance\obj\x86\Debug\CCS_Student_Attendance.TimeIntervalChanger.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\CCS-Student-Attendance\CCS-Student-Attendance\obj\x86\Debug\CCS_Student_Attendance.EventsInformation.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\CCS-Student-Attendance\CCS-Student-Attendance\obj\x86\Debug\CCS_Student_Attendance.Created_Entities.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\CCS-Student-Attendance\CCS-Student-Attendance\obj\x86\Debug\CCS_Student_Attendance.AttendanceForm.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\CCS-Student-Attendance\CCS-Student-Attendance\obj\x86\Debug\CCS_Student_Attendance.Select_student.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\CCS-Student-Attendance\CCS-Student-Attendance\obj\x86\Debug\CCS_Student_Attendance.AttendanceSheetList.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\CCS-Student-Attendance\CCS-Student-Attendance\obj\x86\Debug\CCS_Student_Attendance.Student_Record.resources
